@@ -1,0 +1,14 @@
+// overview description file for cs_freightship.bsp
+
+global
+{
+      ZOOM       1.43
+      ORIGIN       720        -322       -600
+       ROTATED       1
+}
+
+layer 
+{
+       IMAGE       "overviews/cs_freightship.bmp"
+       HEIGHT       -600
+}

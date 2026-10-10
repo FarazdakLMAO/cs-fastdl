@@ -1,0 +1,18 @@
+Hijacked Freightship
+Cs_Freightship by Slapshot
+
+CT:
+You got a call concerning a 
+suspected ter ship, which you followed
+until it docked onto the freight 
+ship. Free the hostages then worry
+about the ters!
+
+Ter:
+You've just pulled up along side 
+your target, a large freight ship,
+your mission is to grab the hostages
+and hold the ship against the CT 
+attack so plans can continue!
+
+Status: Debriefed...

@@ -1,0 +1,177 @@
+Rio de Janeiro (cs_rio) v.1.4 for Counter-Strike
+By Mataleone & Crocodilo
+http://mataleone.counter-strike.com.br/
+
+================================
+==  INFORMACOES EM PORTUGUES  ==
+================================
+(english info below)
+
+AUTORES
+-------
+Design, mapa e texturas por Roger Mataleone - mataleone@yahoo.com - http://mataleone.counter-strike.com.br/
+Design e texturas por Joca Crocodilo - videcom1@terra.com.br
+PODBot Waypoints por RuBones & DarkLord - http://www.biritahq.hpg.com.br/podwpts.html
+
+INFORMACOES SOBRE O MAPA
+------------------------
+Jogo                : Half-Life (http://www.sierrastudios.com/games/half-life/)
+Mod                 : Counter-Strike (http://www.counter-strike.net/)
+Nome do Mapa        : Rio de Janeiro (cs_rio)
+Tipo                : Hostage Rescue
+Numero de Jogadores : Recomendado para 10, mas aguenta ate 32
+Tempo de Desenvolv. : +- 6 meses, trabalhando apenas 2 noites por semana
+Tempo de Compilacao : 8:20 horas numa Sun Sparc Ultra 1
+Editores usados     : Valve´s WorldCraft 3.3 com ZHLT 2.5.1 & 2.3.1 (sun)
+Outros programas    : Adobe Photoshop 4.0 & 5.5, Valve´s makels & qlumpy,
+                      WasabiSoft SkyPaint 1.10, WaveLenght Sprite Wizard 1.1
+Waypoints para Bots : Inclusos para o PODBot (http://www.nuclearbox.com/podbot/)
+
+INSTALACAO
+------------
+Deszipar todos os arquivos no seu diretorio Half-Life/cstrike.
+Nao ha jeito de espalhar nenhum tipo de virus virtual ou organico atraves dos
+arquivos de instalacao!
+
+HISTORICO DE MUDANCAS
+---------------------
+cs_rio v.1.0
+- Vesao original
+cs_rio v.1.1
+- Suporte a 32 jogadores
+- Novos waypoints compativeis com o PODBot 2.5, by Birita HQ
+cs_rio v.1.2
+- Overviews para o HLTV e modo espectador
+- As balas perdidas estao funcionando como deveriam (espero!)
+- Easter egg diferente
+cs_rio v.1.3
+- Bug do refem no CS 1.4 e 1.5 corrigido
+cs_rio v.1.4
+- Novo rap. O antigo estava causando controversia devido a sua letra.
+- A novela saiu do ar, assim como deveria a sua emissora.
+
+SOBRE SUPORTE A 32 JOGADORES
+----------------------------
+A versao 1.4 eh TOTALMENTE COMPATIVEL com as versoes anteriores (1.0, 1.1, 1.2 e 1.3)
+Para 32 jogadores, apenas o servidor precisa estar com a versao 1.1 ou superior.
+Ou seja, NINGUEM precisa atualizar o seu cs_rio para jogar em servidores
+de 32, basta o servidor estar atualizado.  Os jogadores apenas precisas fazer
+o upgrade para poder ver o mapa no novo modo espectador introduzino no CS 1.4.
+
+SOBRE BOTS
+----------
+Esta versao do cs_rio ja contem waypoints para o PodBot.
+Basta instalar o PodBot 2.5 (http://www.nuclearbox.com/podbot/)
+e iniciar um jogo LAN, selecione o cs_rio que os bots devem aparecer.
+Use a tecla "=" (sinal de igual) para acessar o menu de bots.
+
+AGRADECIMENTOS
+--------------
+Pedro_Batera, pelo Rap!
+Gunslinger do counter-strike.de!
+Galera da Zenkei e Unnamed!
+Angel da Monkey, por trazer a CPL para o Brasil e por todo o seu suporte!
+Rubones e DarkLord pelos waypoints!
+Chessfighta e Steven Denman pelos primeiros waypoints!
+LordVader, Tsunami, HitKiller, MigNaz e toda equipe Hardmob pelo cs.com.br!
+Mureta pelos beta-tests!
+Todos os servers que fizeram do cs_rio esse sucesso, principalmente
+ao 9hells (www.9hells.org) e Usina CS (www.usinacs.cjb.net)!
+Todos aqueles que votaram no cs_rio elegendo-o o mapa do ano pelo QBranch!
+
+CONTATO
+-------
+Qualquer comentario, sugestao, bug, ofertas, doacoes, ameacas, convites para
+festas ou seja la o que for, mande para mataleone@yahoo.com
+
+COPYRIGHT
+---------
+cs_rio tem copyright 2001/2002. Voce pode distribuir este mapa contanto que nao
+haja modificacao nem omissao de nenhum arquivo. Por favor nos consulte antes de
+distribuir este arquivo em CDs ou outras midias.
+
+Por favor nao use este mapa ou suas texturas como base para construir outros
+mapas. Nao me peca os fontes que eu nao pretendo passar para ninguem!
+
+ADVERTENCIA
+-----------
+O jogo Counter-Strike eh considerado pelo Ministerio da Justiça inadequado
+para menores de 18 anos por causar desvirtuamento de valores éticos e
+conter sangue, tensão e violência realista.
+
+
+
+
+============================
+==  ENGLISH  INFORMATION  ==
+============================
+
+AUTHORS
+-------
+Design, mapping & textures by Roger Mataleone - mataleone@yahoo.com - http://mataleone.counter-strike.com.br/
+Design & textures by Joca Crocodilo - videcom@terra.com.br
+PODBot Waypoints by RuBones & DarkLord - http://www.biritahq.hpg.com.br/podwpts.html
+RealBot Waypoints by Steven Denman - denmsd@yahoo.co.uk
+
+MAP INFO
+--------
+Game           : Half-Life (http://www.sierrastudios.com/games/half-life/)
+Mod            : Counter-Strike (http://www.counter-strike.net/)
+Map name       : Rio de Janeiro (cs_rio)
+Map Type       : Hostage Rescue
+# of Players   : Recommended for 10, but can sustain 32
+Mapping time   : +- 6 months, working just 2 nights a week
+Compile time   : 8:20 hours on a Sun Sparc Ultra 1
+Editor used    : Valve´s WorldCraft 3.3 with ZHLT 2.5.1 & 2.3.1 (sun)
+Other Tools    : Adobe Photoshop 4.0 & 5.5, Valve´s makels & qlumpy,
+                 WasabiSoft SkyPaint 1.10, WaveLenght Sprite Wizard 1.1
+Bots Waypoints : Included for PODBot (http://www.nuclearbox.com/podbot/)
+
+INSTALLATION
+------------
+Unzip all the files to your Half-Life/cstrike directory.
+For an english map briefing screen, remove the file cs_rio.txt and rename
+cs_riobeta_en.txt to cs_rio.txt.
+There´s NO way of spreading any kid of computer or organic virus through these
+files!
+
+ABOUT 32 PLAYER SUPPORT
+-----------------------
+The version 1.4 is TOTALLY COMPATIBLE with all older version (1.0, 1.1, 1.2 and 1.3)
+ONLY THE SERVER needs to be updated for a 32 players game. The players DON'T NEED
+TO UPDATE their cs_rio to join a 32-player server, they can connect with the original
+cs_rio. The players just need to upgrade to be able to watch the map in the new
+spectator mode introduced on CS 1.4.
+
+VERSION CHANGES HISTORY
+-----------------------
+cs_rio 1.0
+- Original version
+cs_rio 1.1
+- 32 players support
+- New waypoints compatible with PODBot 2.5, by Birita HQ
+cs_rio 1.2
+- HLTV overview included
+- Stray bullets now work as they should (i hope!)
+- New Easter Egg
+cs_rio 1.3
+- Hostage bug on CS 1.4 and 1.5 fixed
+cs_rio 1.4
+- New rap. The old one was making controversy in Brazil due to its lyrics.
+- The soap opera got off the air, as should it's broadcaster.
+
+FEEDBACK
+--------
+Any comments, suggestions, bug report, offers, donations, threats, blackmail,
+party invitations or whatever, please send to mataleone@yahoo.com
+
+COPYRIGHT INFORMATION
+---------------------
+cs_rio is copyright 2001/2002. You may distribute this file freely with NO
+modifications and NO file omissions. Please ask my permission to distribute
+this file on commercial CDs or other medias.
+
+Authors MAY NOT use this level or the textures on this level as a base to build
+additional levels.
+
+Now find a server and play it!

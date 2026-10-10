@@ -1,0 +1,14 @@
+Flake - Hostage Rescue
+By T-1000 (rjp85@hotmail.com)
+Textures by JoeSmoe, MattC, Sheep,
+Cid, Davej, and Myself.
+
+Counter-Terrorists: Rescue all 4 scientist 
+hostages that were kidnapped from their labs 
+and taken hostage at a Terrorist base.
+
+Terrorists: Prevent the Counter-Terrorists
+from rescuing all hostages and/or eliminate
+all CT's.
+
+(Press FIRE to continue)

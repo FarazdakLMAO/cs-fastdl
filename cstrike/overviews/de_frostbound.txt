@@ -1,0 +1,14 @@
+// overview description file for de_frostbound.bsp
+
+global 
+{
+ZOOM 1.53
+ORIGIN -3.56 -1454.13 -340
+ROTATED 0
+}
+
+layer 
+{
+IMAGE "overviews/de_frostbound.bmp"
+HEIGHT -825
+}

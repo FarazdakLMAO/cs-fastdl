@@ -1,0 +1,12 @@
+Snow - bomb/defuse
+by Shephard (shephard@t-online.de)
+
+Terrorists: The Terrorist carrying the
+C4 must destroy the barn or the bridge.
+
+Counter-Terrorists: Prevent Terrorists
+from bombing the barn or the bridge.Team 
+members must defuse any bombs 
+that threaten targeted areas.
+
+(Press FIRE to continue)
